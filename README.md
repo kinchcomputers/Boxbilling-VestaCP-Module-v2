@@ -1,5 +1,4 @@
 # Boxbilling-VestaCP-Module-v2
-Boxbilling VestaCP Module v2
 Boxbilling Modules by Estratos edited by Pctec2012
 
 Boxbilling Modules v2
