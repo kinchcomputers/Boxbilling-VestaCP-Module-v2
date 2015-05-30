@@ -194,9 +194,6 @@ $postvars2 = array(
     'arg2' => $a->getDomain()
 );
 $result2 = $this->_makeRequest($postvars2);
-//}
-//else {throw new Server_Exception('Server Manager Vesta CP Error: User name exists on server, please choose another one '.$result);
-}
 if($result2 != '0'){
 throw new Server_Exception('Server Manager Vesta CP Error: Create Domain failure '.$result2);
 }
