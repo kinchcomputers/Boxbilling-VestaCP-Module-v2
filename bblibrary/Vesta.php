@@ -1,6 +1,6 @@
 <?php
 /**
- * BoxBilling
+ * Boxbilling-VestaCP-Module-v2 By PcTec2012
  *
  * LICENSE
  *
@@ -12,7 +12,7 @@
  * obtain it through the world-wide-web, please send an email
  * to license@boxbilling.com so we can send you a copy immediately.
  *
- * @copyright Copyright (c) 2010-2012 BoxBilling (http://www.boxbilling.com)
+ * @copyright Copyright (c) 2010-2015 BoxBilling (http://www.boxbilling.com)
  * @license   http://www.boxbilling.com/LICENSE.txt
  * @version   $Id$
  */
