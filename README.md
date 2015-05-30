@@ -1,5 +1,5 @@
 # Boxbilling-VestaCP-Module-v2
-Boxbilling Modules by Estratos edited by Pctec2012
+Boxbilling Modules by Estratos edited and updated by Pctec2012
 
 Boxbilling Modules v2
 
@@ -20,3 +20,6 @@ This release includes the following acctions via Vesta API
 Files:
 
 Vesta.php must be placed on ../bb-library/Server/Manager/
+
+
+Hope you you like this well overdue update :-)
