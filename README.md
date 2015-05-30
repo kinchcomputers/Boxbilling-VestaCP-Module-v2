@@ -1,7 +1,10 @@
 # Boxbilling-VestaCP-Module-v2
+
 Boxbilling Modules by Estratos edited and updated by Pctec2012
 
-Boxbilling Modules v2
+
+
+Boxbilling-VestaCP-Module-v2
 
 Tested on Version: 3.6.11 released 2015-05-30
 
@@ -9,13 +12,13 @@ Put Contents of Directory bb-library folder into bb-library/Server/Manager folde
 
 Vesta CP Module ver 2.0 :
 
-This release includes the following acctions via Vesta API
+This release includes the following actions via Vesta API
 
     Create New Account and Primary Domain
     Suspend Account
     Unsuspend Account
     Delete Account
-    Conecction Test
+    connection Test
 
 Files:
 
