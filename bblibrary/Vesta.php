@@ -1,6 +1,6 @@
 <?php
 /**
- * Boxbilling-VestaCP-Module-v2 By PcTec2012
+ * BoxBilling
  *
  * LICENSE
  *
@@ -12,7 +12,7 @@
  * obtain it through the world-wide-web, please send an email
  * to license@boxbilling.com so we can send you a copy immediately.
  *
- * @copyright Copyright (c) 2010-2015 BoxBilling (http://www.boxbilling.com)
+ * @copyright Copyright (c) 2010-2012 BoxBilling (http://www.boxbilling.com)
  * @license   http://www.boxbilling.com/LICENSE.txt
  * @version   $Id$
  */
@@ -194,6 +194,7 @@ $postvars2 = array(
     'arg2' => $a->getDomain()
 );
 $result2 = $this->_makeRequest($postvars2);
+}
 if($result2 != '0'){
 throw new Server_Exception('Server Manager Vesta CP Error: Create Domain failure '.$result2);
 }
@@ -389,4 +390,4 @@ return true;
 throw new Server_Exception('Server Manager Vesta CP Error: Not Supported');
 }
     }
-}
+]
