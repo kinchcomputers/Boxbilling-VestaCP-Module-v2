@@ -24,5 +24,5 @@ Files:
 
 Vesta.php must be placed on ../bb-library/Server/Manager/
 
-
 Hope you you like this well overdue update :-)
+Update 01/06/2015 - I have now fixed a issue with this module where it would cause all server modules not to show when my Vesta.php was added .
