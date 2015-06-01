@@ -33,7 +33,7 @@ class Server_Manager_Vesta extends Server_Manager
     public static function getForm()
     {
         return array(
-            'label'     =>  'Vesta Server Manager',
+            'label'     =>  'Vesta Server Manager V2',
         );
     }
     /**
@@ -194,6 +194,8 @@ $postvars2 = array(
     'arg2' => $a->getDomain()
 );
 $result2 = $this->_makeRequest($postvars2);
+}
+else {
 }
 if($result2 != '0'){
 throw new Server_Exception('Server Manager Vesta CP Error: Create Domain failure '.$result2);
@@ -390,4 +392,4 @@ return true;
 throw new Server_Exception('Server Manager Vesta CP Error: Not Supported');
 }
     }
-]
+}
